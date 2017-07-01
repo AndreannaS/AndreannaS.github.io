@@ -1,0 +1,172 @@
+.l{
+  color:#ff8566;
+}
+
+.m{
+  color:#ffd11a;
+}
+
+.o{
+  color:#ffd11a;
+}
+
+.a{
+  color:#ff8566;
+}
+
+.navbar{
+  margin-bottom: -30px;
+}
+
+section img{
+  max-height: 40%;
+  max-width: 70%;
+  margin-left: 190px;
+  margin-top: -60px;
+}
+
+section h3{
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+  background-color:#e6ffff
+}
+
+
+.jumbotron  h1{
+
+  font-family: monospace;
+  text-align: center;
+ background-color: #99bbff;
+
+  margin-bottom:1px;
+}
+.jumbotron p{
+  background-color:#ffd11a;
+    font-family: monospace;
+  text-align: center;
+}
+.jumbotron h5{
+  background-color: #ff8566;
+  font-family: monospace;
+  font-size: 18px;
+  text-align: center;
+}
+
+
+.jumbotron{
+  background-color: white;
+}
+
+.first-btn {
+  float:left;
+  padding: 30px;
+  font-family:monospace;
+  margin-left: 200px;
+}
+
+.second-btn{
+  float:left;
+  padding: 30px;
+  font-family:monospace;
+}
+
+.third-btn{
+  float:left;
+  padding: 30px;
+  font-family:monospace;
+}
+
+
+.footertext{
+  font-family: monospace;
+  font-size: 15px;
+
+}
+
+
+
+.aboutmetext{
+  color: white;
+  font-family:monospace;
+  font-size: 5px;
+
+}
+
+
+.itsme{
+  float: left;
+  resize: vertical;
+  height: 300px;
+}
+
+
+
+
+
+.left{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  background-color:#ff8566;
+  font-family:monospace;
+  font-size: 15px;
+  height : 100%;
+  color : #FFF;
+}
+
+.right{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  background-color:#ff8566;
+  font-size: 15px;
+  font-family:monospace;
+  height : 100%;
+  color : #FFF;
+}
+
+
+
+#page-wrap {
+	width: 660px;
+	background: white;
+	padding: 20px 50px 20px 50px;
+	margin: 20px auto;
+	min-height: 500px;
+	height: auto !important;
+	height: 500px;
+}
+
+#contact-area {
+	width: 700px;
+	margin-top: 25px;
+}
+
+#contact-area input, #contact-area textarea {
+	padding: 5px;
+	width: 471px;
+	font-family: monospace;
+	font-size: 1.2em;
+	margin: 20px 0px 10px 0px;
+	border: 2px solid #ccc;
+}
+
+#contact-area textarea {
+	height: 90px;
+  font-family: monospace;
+}
+
+#contact-area textarea:focus, #contact-area input:focus {
+	border: 2px solid #900;
+}
+
+#contact-area input.submit-button {
+	width: 70px;
+	float: center;
+  background-color: #ffd11a;
+}
+label{
+  font-family: monospace;
+  color: #ffd11a;
+}
